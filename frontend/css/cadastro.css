@@ -94,6 +94,7 @@ body {
     display: flex;
     justify-content: center;
     margin-bottom: 40px;
+    gap: 70px;
 }
 /*Estilização do input*/
 .input-container{
@@ -186,6 +187,7 @@ body {
     .pc_view {
         display: none;
     }
+
     .mb_view {
     display: flex;
     }
