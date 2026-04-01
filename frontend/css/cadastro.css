@@ -192,4 +192,8 @@ body {
     display: flex;
     }
 
+    .botao-modelo-principal {
+        width: 100%;
+        border-radius: 50px;
+    }
 }
